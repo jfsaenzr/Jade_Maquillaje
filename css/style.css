@@ -1191,3 +1191,9 @@ p.comment-form-email, p.comment-form-author, p.comment-form-url {
 			 padding: 30px 30px;
 	}
 }
+
+/*********************************************/
+.logo{
+  border-radius: 200px;
+  opacity: .7;
+}
